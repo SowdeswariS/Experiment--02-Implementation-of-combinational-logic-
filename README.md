@@ -90,6 +90,14 @@ endmodule
 
 
 
+## Truth table:
+
+
+
+![Screenshot 2023-12-24 112625](https://github.com/SowdeswariS/Experiment--02-Implementation-of-combinational-logic-/assets/154341385/e206b6bb-ea4d-4751-bb3f-d6078b99bfb3)
+
+
+
 ## Timing Diagram
 
 
